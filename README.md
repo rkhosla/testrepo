@@ -1,6 +1,6 @@
 # Repository Readme
 
-This is the README file for a sample project! In the above line, one hashtag makes the text bigger, and as you keep adding hashtags, the text keeps getting smaller and smaller. If you want text here as in a paragraph, just type.
+This is the README file for a sample project! In the above line, one hashtag makes the text bigger, and as you keep adding hashtags, the text keeps getting smaller and smaller. If you want text here as in a paragraph, just start typing.
 
 This project has the following functionality:
 
